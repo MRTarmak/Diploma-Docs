@@ -52,16 +52,24 @@
     body: [Методические указания по оформлению списка использованных источников и ссылок в текстах / НИУ ВШЭ, Факультет компьютерных наук. — Москва, 2025. — 18 с.],
   ),
   (
-    id: "autocad-tiles",
-    body: [Tiles Settings (Texture Editor) / Autodesk. — URL: #link("https://help.autodesk.com/cloudhelp/2022/ENU/AutoCAD-Core/files/GUID-0E73EA80-A7C6-422D-B044-283E464D7223.htm") (дата обращения: 18.11.2026).],
+    id: "tilelico",
+    body: [Tilelico / Tile Layout Planner. — URL: #link("https://tilelico.com/en/") (дата обращения: 19.11.2026).],
   ),
   (
-    id: "freecad-home",
-    body: [FreeCAD: Your own 3D parametric modeler / FreeCAD. — URL: #link("https://www.freecad.org/") (дата обращения: 18.11.2026).],
+    id: "floorplanning",
+    body: [Floor Planner for Tiles, Laminate & More / floorplanning.app. — URL: #link("https://floorplanning.app/en/") (дата обращения: 19.11.2026).],
   ),
   (
-    id: "revit-patterns",
-    body: [About Patterned Surfaces / Autodesk. — URL: #link("https://help.autodesk.com/cloudhelp/2024/ENU/Revit-ArchDesign/files/GUID-40AB18ED-E31E-48E1-B738-833D124AB18B.htm") (дата обращения: 18.11.2026).],
+    id: "mamecut",
+    body: [Tile Simulator / MameCut. — URL: #link("https://mamecut.com/en/tile-simulator") (дата обращения: 19.11.2026).],
+  ),
+  (
+    id: "hgk",
+    body: [Tile Planner / HGK Studio. — URL: #link("https://hgkstudio.com.tr/araclar/kaplama/") (дата обращения: 19.11.2026).],
+  ),
+  (
+    id: "freecad-bim",
+    body: [BIM Covering / FreeCAD Documentation. — URL: #link("https://reqrefusion.github.io/FreeCAD-Documentation-html/wiki/en/BIM_Covering.html") (дата обращения: 19.11.2026).],
   ),
 )
 
